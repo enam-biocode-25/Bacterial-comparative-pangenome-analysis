@@ -54,7 +54,7 @@ This divides genes into groups such as:
 **Common tools:**
 * Roary
 * Panaroo
-  * Anvi’o
+* Anvi’o
 
 # 5. Core genome alignment
 **Align core genes shared by all genomes.**
