@@ -1,0 +1,8 @@
+## Run the pipeline
+
+```bash
+conda activate pangenome_env
+bash run_pipeline.sh
+
+bash scripts/01_quast.sh
+
